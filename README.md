@@ -1,6 +1,9 @@
 # OLT unblock
 This is a **WIP** open-source tool intended to enable users to mantain multiple OLTs unblocked when the vendor makes the unblock commands volatile.
 
+[![Django CI](https://github.com/HenrikBaltazar/OLTunblock/actions/workflows/django.yml/badge.svg)](https://github.com/HenrikBaltazar/OLTunblock/actions/workflows/django.yml) [![license](https://img.shields.io/github/license/HenrikBaltazar/OLTunblock.svg)]()  
+
+
 ## Run
 ```python manage.py runserver```
 

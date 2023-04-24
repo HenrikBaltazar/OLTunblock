@@ -1,6 +1,9 @@
 # OLT unblock
 This is a **WIP** open-source tool intended to enable users to mantain multiple OLTs unblocked when the vendor makes the unblock commands volatile.
 
+## Run
+```python manage.py runserver```
+
 ## MVP
 - [ ] Access control
 - [ ] Add a list of OLTs

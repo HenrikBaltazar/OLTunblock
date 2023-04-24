@@ -3,10 +3,6 @@ This is a **WIP** open-source tool intended to enable users to mantain multiple 
 
 [![Django CI](https://github.com/HenrikBaltazar/OLTunblock/actions/workflows/django.yml/badge.svg)](https://github.com/HenrikBaltazar/OLTunblock/actions/workflows/django.yml) [![license](https://img.shields.io/github/license/HenrikBaltazar/OLTunblock.svg)]()  
 
-
-## Run
-```python manage.py runserver```
-
 ## MVP
 - [ ] Access control
 - [ ] Add a list of OLTs
@@ -28,6 +24,9 @@ This is a **WIP** open-source tool intended to enable users to mantain multiple 
 - [ ] Multiplatform
 - [ ] System-tray/daemon
 - [ ] Open releases 
+
+## Run
+```python manage.py runserver```
 
 ## License
 MIT © HenrikBaltazar
